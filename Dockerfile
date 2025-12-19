@@ -1,4 +1,4 @@
-FROM golang:1.15 as builder
+FROM golang:1.25 AS builder
 # Replace <adapter-name> to what you want to create
 # Replace <service-mesh> to the service-mesh application name
 ARG ENVIRONMENT="development"
