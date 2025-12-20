@@ -1,6 +1,6 @@
 module github.com/layer5io/meshery-adapter-template
 
-go 1.15
+go 1.25
 
 require (
 	github.com/golang/protobuf v1.4.3
