@@ -12,14 +12,14 @@
 
 # Meshery Adapter for <adaptor-name>
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery-<adaptor-name>.svg)](https://hub.docker.com/r/layer5/meshery-<adaptor-name>)
-[![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery-<adaptor-name>)](https://goreportcard.com/report/github.com/layer5io/meshery-<adaptor-name>)
-[![Build Status](https://github.com/layer5io/meshery-<adaptor-name>/workflows/Meshery-<adaptor-name>/badge.svg)](https://github.com/layer5io/meshery-<adaptor-name>/actions)
-[![GitHub](https://img.shields.io/github/license/layer5io/meshery-<adaptor-name>.svg)](https://github.com/layer5io/meshery-<adaptor-name>/blob/master/LICENSE)
-[![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/meshery-<adaptor-name>/help%20wanted.svg)](https://github.com/layer5io/meshery-<adaptor-name>/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://meshery.io)
+[![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-adaptor-template.svg)](https://hub.docker.com/r/meshery-extensions/meshery-adapter-template)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-adapter-template)](https://goreportcard.com/badge/github.com/meshery/meshery-adapter-template)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-adapter-template/build-and-release.yml?branch=master)](https://github.com/meshery/meshery-adapter-template/actions)
+[![GitHub](https://img.shields.io/github/license/meshery/meshery-adapter-template.svg)](https://github.com/meshery/meshery-adapter-template/blob/master/LICENSE)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-adapter-template/help%20wanted.svg)](https://github.com/meshery/meshery-adapter-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![Website](https://img.shields.io/website/https/meshery/meshery.svg)](https://meshery.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
+[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <br />
@@ -30,7 +30,7 @@
 style="margin:10px;" width="125px" 
 alt="Meshery - the Cloud Native Manager" align="left" /></a>
 A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). Among other features, As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
-<br /><br /><p align="center"><i>If you’re using Meshery or if you like the project, please <a href="https://github.com/layer5io/meshery/stargazers">★</a> star this repository to show your support! 🤩</i></p>
+<br /><br /><p align="center"><i>If you’re using Meshery or if you like the project, please <a href="https://github.com/meshery/meshery/stargazers">★</a> star this repository to show your support! 🤩</i></p>
 </p>
 
 <br />
@@ -48,12 +48,12 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 </picture>
 </a>
 
-<a href="https://meshery.io/community"><img alt="Layer5 Cloud Native Community" src="img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
+<a href="https://meshery.io/community"><img alt="Meshery Cloud Native Community" src="img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
 
 <p>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshery.io/calendar">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/@mesheryio?sub_confirmation=1">meeting recordings</a>.<br />
-✔️ <em>Fill-in</em> a <a href="https://layer5.io/newcomers">community member form</a> to gain access to community resources.<br />
+✔️ <em>Fill-in</em> a <a href="https://meshery.io/newcomers">community member form</a> to gain access to community resources.<br />
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.meshery.io">Community Forum</a>.<br />
 </p>
 <p align="center">
