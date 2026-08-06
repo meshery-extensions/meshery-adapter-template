@@ -10,7 +10,7 @@
 <br/><br/></p>
 </picture>
 
-# Meshery Adapter for <adaptor-name>
+# Meshery Adapter for \<adapter-name\>
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-adaptor-template.svg)](https://hub.docker.com/r/meshery-extensions/meshery-adapter-template)
 [![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-adapter-template)](https://goreportcard.com/badge/github.com/meshery/meshery-adapter-template)
@@ -21,6 +21,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
 [![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
+[![support: official](https://img.shields.io/badge/support-official-2f6feb)](https://github.com/meshery/meshery/blob/master/GOVERNANCE.md#extensions-githubcommeshery-extensions)
 
 <br />
 
